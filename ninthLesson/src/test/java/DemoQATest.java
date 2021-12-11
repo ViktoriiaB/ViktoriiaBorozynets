@@ -20,9 +20,7 @@ public class DemoQATest {
     WebDriver driver;
     private static final String URL = "https://demoqa.com/";
     private static final String URL2 = "https://www.toolsqa.com/selenium-training/";
-    private WebElement buttonJoin;
-
-
+    
     @BeforeMethod
     public void setup() {
         WebDriverManager.chromedriver().setup();
