@@ -2,7 +2,7 @@ package secondlesson;
 
 import java.util.Random;
 
-public class TaskOne {
+public class Task {
 
     public static void main(String[] args) {
         Random random = new Random();
