@@ -1,30 +1,0 @@
-
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¾ı¾ü8®Í‡Ú/
-]	java:S125"<This block of commented-out lines of code should be removed.(±øÓ—ıÿÿÿÿ8ÀÍ‡Ú/
-c
-java:S1128"FRemove this unused import 'io.github.bonigarcia.wdm.WebDriverManager'.(°Ëõ‰8ÀÍ‡Ú/
-P
-java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8ÀÍ‡Ú/
-W
-java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8ÀÍ‡Ú/
-]
-java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8ÀÍ‡Ú/
-`
-java:S1128"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8ÀÍ‡Ú/
-a
-java:S1128"?Remove this unused import 'org.openqa.selenium.support.FindBy'.(¶º´éùÿÿÿÿ8ÉÍ‡Ú/
-K
-java:S1128	".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8ÉÍ‡Ú/
-Z
-java:S1128
-"=Remove this unused import 'org.testng.annotations.AfterTest'.(Ü³¹Ê8ÉÍ‡Ú/
-b
-java:S1128"@Remove this unused import 'org.testng.annotations.BeforeMethod'.(‹åóùùÿÿÿÿ8ÉÍ‡Ú/
-Z
-java:S1128"8Remove this unused import 'org.testng.annotations.Test'.(á½úáùÿÿÿÿ8ÉÍ‡Ú/
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÉÍ‡Ú/
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÉÍ‡Ú/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­‘í¾
