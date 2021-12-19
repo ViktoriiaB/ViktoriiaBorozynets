@@ -1,11 +1,0 @@
-
-U
-java:S1118":Add a private constructor to hide the implicit public one.(–¤¼¤øÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‚åé»üÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÀÕ€
-V	java:S125""<This block of commented-out lines of code should be removed.(¥¢Ïìùÿÿÿÿ
-H
-java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ý‹è
-b
-java:S3973"GUse indentation to denote the code conditionally executed by this "if".(µ‹®œþÿÿÿÿ
