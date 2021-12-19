@@ -1,0 +1,21 @@
+
+U
+%src/main/java/taskOne/DaysOfWeek.java,5\b\5bd14f20b97bd3d99de182b9f2717787bbc08bd8
+U
+%src/main/java/taskthree/Products.java,c\b\cb75db4bee298d6a853962b854f6ec2539117d0f
+^
+.src/main/java/tasktwo/WrongLoginException.java,f\3\f32d1ec0b152bbe92d73393f351535fe33cea0f1
+a
+1src/main/java/tasktwo/WrongPasswordException.java,1\f\1f4992804d0e7dda693e993a5edb78c04b4b05a2
+T
+$src/main/java/tasktwo/LoginPage.java,7\4\7422ade67076d869f39a42f2ef9d1cdcb74865f5
+O
+src/main/java/taskone/Days.java,4\a\4a88746667e0e5f41eef3b4fb014bd6ea41d89b2
+P
+ src/main/java/taskthree/Run.java,8\0\80a03fd40e43ece0fc73dc97fba135f2f424dd20
+O
+src/main/java/taskfour/Cat.java,a\0\a07a8fb594982fb08ba8b3225dce59fe8f6228cb
+O
+src/main/java/taskfour/Dog.java,1\6\16fcdd32f0fa04474ef11687d5bdff4f0cba8651
+O
+src/main/java/taskfour/Pet.java,9\c\9c91d1d17167e13fdd725fa3213a0bce4ebae577
